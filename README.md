@@ -1,6 +1,6 @@
 # Distorsion-Fx
 A MIDI distortion effect realized using the JUCE framework. 
-Main functionalities:
+Main functionalities: \n
 -Distorsion Chain (Drive, Range, Blend, Volume)
 -State Variable Filter (Low Pass, Band Pass, High Pass)
 -Additional effects (Reverb and Delay)
