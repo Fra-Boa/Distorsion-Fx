@@ -1,5 +1,11 @@
 # Distorsion-Fx
 A MIDI distortion effect realized using the JUCE framework. <br> <br>
+
+![alt text] (https://raw.githubusercontent.com/Fra-Boa/Distorsion-Fx/main/images/VST_DISTORSION.png)
+
+
+
+
 ## Main functionalities <br>
 The Plug-in is composed by three main sections: <br><br>
 -<b>Distorsion Chain</b> (Drive, Range, Blend, Volume) <br>
