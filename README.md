@@ -1,7 +1,7 @@
 # Distorsion-Fx
 A MIDI distortion effect realized using the JUCE framework. <br> <br>
 
-![alt text] (https://raw.githubusercontent.com/Fra-Boa/Distorsion-Fx/main/images/VST_DISTORSION.png)
+<img src="https://raw.githubusercontent.com/Fra-Boa/Distorsion-Fx/main/images/VST_DISTORSION.png" alt="screenshot" width="600" height="400">
 
 
 
